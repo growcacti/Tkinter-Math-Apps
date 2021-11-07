@@ -13,7 +13,7 @@ This program is free software; you can redistribute it and/or modify
 it under the terms of the Python 2.1.1 license, available at
 http://www.python.org/2.1.1/license.html
 Edited program to convert it to a tkinter GUI math app
-This is a issue with the list box showing other answers but one is correct
+There is a issue with the list box showing other answers but one is correct
 """
 import tkinter as tk
 from tkinter import ttk
